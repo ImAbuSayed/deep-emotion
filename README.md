@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-emotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deep Emotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-emotion/) |
+| **Get License** | [Get a Licensing Quote for Deep Emotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-emotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e982241642ef1f7830f42ae9f4183afc91f02b661bfee074cc10ce70b29c6285` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
